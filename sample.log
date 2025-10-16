@@ -1,0 +1,10 @@
+2025-10-15 10:00:01 INFO User 192.168.0.1 logged in
+2025-10-15 10:01:15 ERROR Failed to connect to database
+2025-10-15 10:02:23 WARNING Disk space low
+2025-10-15 10:03:45 INFO User 192.168.0.2 logged out
+2025-10-15 10:04:01 ERROR Unable to open file
+2025-10-15 10:00:01 INFO User 192.168.0.1 logged in
+2025-10-15 10:01:15 ERROR Failed to connect to database
+2025-10-15 10:02:23 WARNING Disk space low
+2025-10-15 10:03:45 INFO User 192.168.0.2 logged out
+2025-10-15 10:04:01 ERROR Unable to open file
